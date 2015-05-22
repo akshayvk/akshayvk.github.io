@@ -1,0 +1,18 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  background: url(bighouse.jpg) repeat-y right;
+  padding-top: 50px;
+
+}
+h2 {
+	text-align: center;
+}
+.jumbotron {
+	background: url(bighouse.jpg) repeat-y right;
+	color: black;
+	opacity:2.5;
+	font-size: 300%;
+    text-align: center;
+    padding-top: 50px;
+  	padding-bottom: 20px;
+}
